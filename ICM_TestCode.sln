@@ -21,7 +21,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ICM.WSI.TaxJar", "src\Tools
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICM.Taxes.Calculator", "src\Modules\Taxes\ICM.Taxes.Calculator\ICM.Taxes.Calculator.csproj", "{5124EF45-CF1F-4D04-8D71-BC4A9AD2E0F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICM.Modules.Taxes", "src\Test\ICM.Modules.Taxes\ICM.Modules.Taxes.csproj", "{5EE73EFB-B7E7-4C3C-9BAD-4ECC2BF5BC0E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICM.Taxes", "src\Test\ICM.Modules.Taxes\ICM.Taxes.csproj", "{5EE73EFB-B7E7-4C3C-9BAD-4ECC2BF5BC0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
