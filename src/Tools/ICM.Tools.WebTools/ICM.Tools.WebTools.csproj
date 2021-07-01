@@ -9,6 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Modules\Taxes\ICM.Taxes.Calculator\ICM.Taxes.Calculator.csproj" />
     <ProjectReference Include="..\ICM.Tools\ICM.Tools.csproj" />
   </ItemGroup>
 

@@ -10,3 +10,5 @@ C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.Tools.WebToo
 C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.Tools.WebTools\obj\Debug\netcoreapp3.1\ICM.Tools.WebTools.csproj.CopyComplete
 C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.Tools.WebTools\obj\Debug\netcoreapp3.1\ICM.Tools.WebTools.dll
 C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.Tools.WebTools\obj\Debug\netcoreapp3.1\ICM.Tools.WebTools.pdb
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.Tools.WebTools\bin\Debug\netcoreapp3.1\ICM.Taxes.Calculator.dll
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.Tools.WebTools\bin\Debug\netcoreapp3.1\ICM.Taxes.Calculator.pdb

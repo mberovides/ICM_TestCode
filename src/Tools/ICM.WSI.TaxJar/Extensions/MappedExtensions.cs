@@ -1,8 +1,6 @@
 ﻿using AutoMapper;
 using ICM.Taxes.Calculator.Models;
-using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace ICM.WSI.TaxJar.Extensions
 {

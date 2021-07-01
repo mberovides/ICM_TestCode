@@ -103,6 +103,16 @@
           "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {}
         }
       },
+      "ICM.Taxes.Calculator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ICM.Taxes.Calculator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ICM.Taxes.Calculator.dll": {}
+        }
+      },
       "ICM.Tools/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -324,6 +334,11 @@
         "version.txt"
       ]
     },
+    "ICM.Taxes.Calculator/1.0.0": {
+      "type": "project",
+      "path": "../../Modules/Taxes/ICM.Taxes.Calculator/ICM.Taxes.Calculator.csproj",
+      "msbuildProject": "../../Modules/Taxes/ICM.Taxes.Calculator/ICM.Taxes.Calculator.csproj"
+    },
     "ICM.Tools/1.0.0": {
       "type": "project",
       "path": "../ICM.Tools/ICM.Tools.csproj",
@@ -332,6 +347,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "ICM.Taxes.Calculator >= 1.0.0",
       "ICM.Tools >= 1.0.0",
       "Microsoft.Extensions.Http >= 5.0.0"
     ]
@@ -364,6 +380,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+            "C:\\Users\\mariannisberovides\\source\\repos\\ICM_TestCode\\src\\Modules\\Taxes\\ICM.Taxes.Calculator\\ICM.Taxes.Calculator.csproj": {
+              "projectPath": "C:\\Users\\mariannisberovides\\source\\repos\\ICM_TestCode\\src\\Modules\\Taxes\\ICM.Taxes.Calculator\\ICM.Taxes.Calculator.csproj"
+            },
             "C:\\Users\\mariannisberovides\\source\\repos\\ICM_TestCode\\src\\Tools\\ICM.Tools\\ICM.Tools.csproj": {
               "projectPath": "C:\\Users\\mariannisberovides\\source\\repos\\ICM_TestCode\\src\\Tools\\ICM.Tools\\ICM.Tools.csproj"
             }
