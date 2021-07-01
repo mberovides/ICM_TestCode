@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "gfP6yhCY6toao/ndCctpHnA5VNNvjdI3Pf7CR0xtWZDaBx/XqTrpp8xLFP5yUH7M1o9ak3o8BpZaZU+lpjAjTg==",
+  "dgSpecHash": "BgPHMqg9MfdacT50L1FqXVQowciwS0kglKhEf5WGm38KtbmidUXQKCTEN+xnoVXmkaKAqFxhDdrCCxhpuBd9Mw==",
   "success": true,
   "projectFilePath": "C:\\Users\\mariannisberovides\\source\\repos\\ICM_TestCode\\src\\Tools\\ICM.Tools.WebTools\\ICM.Tools.WebTools.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mariannisberovides\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\mariannisberovides\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\mariannisberovides\\.nuget\\packages\\microsoft.extensions.http\\5.0.0\\microsoft.extensions.http.5.0.0.nupkg.sha512",
+    "C:\\Users\\mariannisberovides\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\mariannisberovides\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\mariannisberovides\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\mariannisberovides\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\mariannisberovides\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\mariannisberovides\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

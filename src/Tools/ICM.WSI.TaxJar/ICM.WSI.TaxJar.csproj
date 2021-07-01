@@ -5,9 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Abstractions\" />
-    <Folder Include="Extensions\" />
-    <Folder Include="Services\" />
+    <ProjectReference Include="..\ICM.Tools.WebTools\ICM.Tools.WebTools.csproj" />
   </ItemGroup>
 
 </Project>

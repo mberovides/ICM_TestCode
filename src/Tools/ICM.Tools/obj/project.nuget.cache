@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kCQftmQJUEoA149NEqkImymyOCaaQSXgsg3L6eR24JCTefkeUVPt9UIEArdqq0DiybCSlLf3kw+Rz2/pdExOew==",
+  "dgSpecHash": "N4YLkLeWfFtNSru502zhgN4kSTV2kf2Tja68psgQY5gC/qe4eotvLGpyV2l4gWnKsuKVwxTwvd1m9k8rFh7EHw==",
   "success": true,
   "projectFilePath": "C:\\Users\\mariannisberovides\\source\\repos\\ICM_TestCode\\src\\Tools\\ICM.Tools\\ICM.Tools.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mariannisberovides\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

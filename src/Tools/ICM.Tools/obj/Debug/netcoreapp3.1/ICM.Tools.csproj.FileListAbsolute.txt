@@ -1,0 +1,8 @@
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.Tools\bin\Debug\netcoreapp3.1\ICM.Tools.deps.json
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.Tools\bin\Debug\netcoreapp3.1\ICM.Tools.dll
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.Tools\bin\Debug\netcoreapp3.1\ICM.Tools.pdb
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.Tools\obj\Debug\netcoreapp3.1\ICM.Tools.AssemblyInfoInputs.cache
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.Tools\obj\Debug\netcoreapp3.1\ICM.Tools.AssemblyInfo.cs
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.Tools\obj\Debug\netcoreapp3.1\ICM.Tools.csproj.CoreCompileInputs.cache
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.Tools\obj\Debug\netcoreapp3.1\ICM.Tools.dll
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.Tools\obj\Debug\netcoreapp3.1\ICM.Tools.pdb

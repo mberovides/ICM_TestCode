@@ -1,0 +1,8 @@
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Modules\Taxes\ICM.Taxes.Calculator\obj\Debug\netcoreapp3.1\ICM.Taxes.Calculator.AssemblyInfoInputs.cache
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Modules\Taxes\ICM.Taxes.Calculator\obj\Debug\netcoreapp3.1\ICM.Taxes.Calculator.AssemblyInfo.cs
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Modules\Taxes\ICM.Taxes.Calculator\obj\Debug\netcoreapp3.1\ICM.Taxes.Calculator.csproj.CoreCompileInputs.cache
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Modules\Taxes\ICM.Taxes.Calculator\bin\Debug\netcoreapp3.1\ICM.Taxes.Calculator.deps.json
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Modules\Taxes\ICM.Taxes.Calculator\bin\Debug\netcoreapp3.1\ICM.Taxes.Calculator.dll
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Modules\Taxes\ICM.Taxes.Calculator\bin\Debug\netcoreapp3.1\ICM.Taxes.Calculator.pdb
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Modules\Taxes\ICM.Taxes.Calculator\obj\Debug\netcoreapp3.1\ICM.Taxes.Calculator.dll
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Modules\Taxes\ICM.Taxes.Calculator\obj\Debug\netcoreapp3.1\ICM.Taxes.Calculator.pdb
