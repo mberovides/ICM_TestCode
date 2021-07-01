@@ -1,0 +1,9 @@
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.WSI.TaxJar\bin\Debug\netcoreapp3.1\ICM.WSI.TaxJar.deps.json
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.WSI.TaxJar\bin\Debug\netcoreapp3.1\ICM.WSI.TaxJar.dll
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.WSI.TaxJar\bin\Debug\netcoreapp3.1\ICM.WSI.TaxJar.pdb
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.WSI.TaxJar\obj\Debug\netcoreapp3.1\ICM.WSI.TaxJar.csprojAssemblyReference.cache
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.WSI.TaxJar\obj\Debug\netcoreapp3.1\ICM.WSI.TaxJar.AssemblyInfoInputs.cache
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.WSI.TaxJar\obj\Debug\netcoreapp3.1\ICM.WSI.TaxJar.AssemblyInfo.cs
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.WSI.TaxJar\obj\Debug\netcoreapp3.1\ICM.WSI.TaxJar.csproj.CoreCompileInputs.cache
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.WSI.TaxJar\obj\Debug\netcoreapp3.1\ICM.WSI.TaxJar.dll
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.WSI.TaxJar\obj\Debug\netcoreapp3.1\ICM.WSI.TaxJar.pdb
