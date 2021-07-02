@@ -6,3 +6,4 @@ C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.Tools\obj\De
 C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.Tools\obj\Debug\netcoreapp3.1\ICM.Tools.csproj.CoreCompileInputs.cache
 C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.Tools\obj\Debug\netcoreapp3.1\ICM.Tools.dll
 C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.Tools\obj\Debug\netcoreapp3.1\ICM.Tools.pdb
+C:\Users\mariannisberovides\source\repos\ICM_TestCode\src\Tools\ICM.Tools\obj\Debug\netcoreapp3.1\ICM.Tools.csprojAssemblyReference.cache
