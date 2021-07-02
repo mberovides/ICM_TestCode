@@ -11,6 +11,7 @@ namespace ICM.Tools.WebTools
     public class HttpClientService : Abstractions.IHttpClientService
     {
         private readonly ILogger<HttpClientService> _logger;
+        
         private HttpClient GetHttpClient(string token)
         {
             var httpClient = new HttpClient();
@@ -29,9 +30,9 @@ namespace ICM.Tools.WebTools
             {
                 return await (await GetHttpClient(token).GetAsync($"{url}/{relative}")).GetDataAsync<T>();
             }
-            catch (Exception e)
+            catch (Exception)
             {
-                _logger.LogError(e.Message);
+                //We should logger error 
                 return default;
             }
         }
@@ -47,9 +48,9 @@ namespace ICM.Tools.WebTools
                             objIn.GetStringContent()))
                         .GetDataAsync<Out>();
             }
-            catch (Exception e)
+            catch (Exception)
             {
-                _logger.LogError(e.Message);
+                //We should logger error 
                 return default;
             }
         }

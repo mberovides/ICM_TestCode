@@ -48,7 +48,6 @@ namespace ICM.Integration.Controllers
 
         }
 
-
         [HttpPost("Calculate")]
         public async Task<ActionResult> Calculate([FromBody] Models.OrderInfo model)
         {

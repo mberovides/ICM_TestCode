@@ -8,7 +8,6 @@ namespace ICM.Taxes.Calculator.Models
         public GeoLocation To { get; set; }
         public decimal? Amount { get; set; }
         public decimal Shipping { get; set; }
-
         public List<LineItem> LineItems { get; set; }
     }
 }
